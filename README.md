@@ -1,4 +1,4 @@
-### <samp>Hello World, 👋 </samp>
+### <samp>System.out.println("Hey 👋")</samp>
 
 <p align='left'>
 
