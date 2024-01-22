@@ -1,8 +1,8 @@
-### <samp>System.out.println("Hey 👋")</samp>
+### <samp>System.out.println("Hey👋")</samp>;
 
 <p align='left'>
 
-I'm Giorgi, QA Automation Engineer. I specialize in <strong>Java</strong> and <strong>JavaScript</strong> based testing frameworks for <strong>UI</strong>, <strong>Database</strong> and <strong>Rest APIs</strong>. I use <strong>Selenium WebDriver</strong> along with different tools and libraries to build efficient testing solutions. I enjoy <strong>JS</strong> and am actively learning <strong>WDIO</strong>, <strong>Cypress</strong> as well as <strong>Mobile</strong> and <strong>Performance</strong> testing.
+I'm Giorgi, QA Automation Engineer. I specialize in <strong>Java</strong> and <strong>JavaScript</strong> based testing frameworks for <strong>UI</strong>, <strong>Database</strong> and <strong>Rest API</strong>s. I use <strong>Selenium WebDriver</strong> along with industry leading tools and libraries to build efficient testing solutions. I enjoy <strong>JS</strong> and am actively learning <strong>React</strong>, <strong>Cypress</strong> as well as <strong>Mobile</strong> and <strong>Performance</strong> testing.
 
 </p>
 
@@ -15,11 +15,12 @@ I'm Giorgi, QA Automation Engineer. I specialize in <strong>Java</strong> and <s
 <h3 align='left'><samp>⚙️ Tech Stack</samp></h3>
 
 - Languages: `Java`, `JavaScript`
-- Testing Tools: `Selenium WebDriver`, `TestNg`, `Cucumber`, `Sauce Labs`, `WDIO`, `Extent/Allure Reports`
-- Other Tools: `Azure DevOps`, `Jira`, `Maven`, `Jenkins`, `Git`, `GitHub`, `GitLabs`
-- API Tools: `Postman`, `Mocha.js`, `Chai.js`, `Request Promise`
-- Database: `SQL Server`, `SSMS`
-- Environments: `Mac OS`, `Windows`, `Android`
+- Testing Tools: `Selenium`, `TestNg`, `Cucumber BDD`, `WebdriverIO`, `Mocha`
+- Project Management: `Azure DevOps`, `Confluence`, `Jira`, `MS Office Suite`</br></br>
+- Rest API: `Postman`, `Grafana K6`, `Request Promise`
+- Database: `SQL Server`, `SSMS`</br></br>
+- Other Tools: `Git/GitHub`, `Maven`, `Sauce Labs`, `Jenkins`, `Allure/Extent Reports`, `Chai`
+- Environments: `Mac OS`, `Windows`
 
 <h3 align='left'><samp>🚀 Fun Facts</samp></h3>
 
@@ -28,10 +29,10 @@ I'm a big fan of Sci-Fi movies, books and art.
 <br><strong>Blade Runner, Aliens</strong> & <strong>LOTR</strong> are my all time favorites.
 <br><br>
 
-Currently reading <strong>Recursion</strong> by Blake Crouch.<br>Read books by PKD, William Gibson, Andy Weir, etc..
+Currently reading <strong>Recursion</strong> by Blake Crouch.<br>Enjoy other Sci-Fi books of Andy Weir, William Gibson and etc..
 <br><br>
-I love art, workouts, sports and travel with friends. <br>Nature and mountains is perhaps where I belong.
-<br><br>
-I speak English and am bilingual in Russian & Georgian.<br>
-
-Lost half of 2022 to <strong>Elden Ring</strong>. Highly recommended.
+I love drawing, gaming, music, and playing with aniamls.<br>Often watch different <strong>sports</strong> and enjoy working out.
+<br>
+I play games like The Last of Us, 2077, Alan Wake and BF2042.<br>
+All time favorite is <strong>Elden Ring</strong> and other From Soft titles.<br><BR>
+I speak English and am bilingual in Russian & Georgian.
