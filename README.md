@@ -24,13 +24,9 @@ I'm Giorgi, a QA Automation Engineer. I specialize in <strong>Java</strong> and 
 
 <img align="right" width="380" height="280"  src="assets/code.gif" alt="animated gif with flashing lamp, pc and code on the screen" />
 I'm a big fan of Sci-Fi movies, games books and art.<br>
-<strong>Blade Runner, Aliens</strong> & <strong>LOTR</strong> are some of my all time favorites.
-
-<br>
+<strong>Blade Runner, Aliens</strong> & <strong>LOTR</strong> are some of my all time favorites.<br><br>
 Currently reading books by Blake Crouch and also enjoy works by<br>
-Andy Weir, William Gibson, PKD and others.
-
-<br>
+Andy Weir, William Gibson, PKD and others.<br><br>
 I play games like The Last of Us, 2077, Alan Wake and BF2042.<br>
 All time favorite is <strong>Elden Ring</strong> and other FromSoft titles. In my free time,<br>
 I enjoy gym, traveling and outdoor activities. Also, certified cat dad 😺<br><br>
