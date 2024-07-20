@@ -22,7 +22,7 @@ I'm Giorgi, a QA Automation Engineer. I specialize in <strong>Java</strong> and 
 
 <h3 align='left'><samp>🚀 Fun Facts</samp></h3>
 
-<img align="right" width="380" height="280"  src="assets/code.gif" alt="animated gif with flashing lamp, pc and code on the screen" />
+<img align="right" width="347" height="247"  src="assets/code.gif" alt="animated gif with flashing lamp, pc and code on the screen" />
 I'm a big fan of Sci-Fi movies, games books and art.<br>
 <strong>Blade Runner, Aliens</strong> & <strong>LOTR</strong> are some of my all time favorites.<br><br>
 Currently reading books by Blake Crouch and also enjoy works by<br>
